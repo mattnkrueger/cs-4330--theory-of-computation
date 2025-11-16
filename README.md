@@ -5,7 +5,3 @@ Homeworks:
 - HW3
 - HW4
 - HW5
-
-Exams:
-- E1
-- E2
