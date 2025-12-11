@@ -13,4 +13,4 @@ Homeworks:
 
 Exams:
 - [E1](/exams/E1.pdf) (19/20)
-- [E2](/exams/E1.pdf) (18.5/20)
+- [E2](/exams/E2.pdf) (18.5/20)
