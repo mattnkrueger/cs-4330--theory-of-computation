@@ -8,8 +8,8 @@ Homeworks:
 - [HW3](/homework/HW3.pdf) (57.5/60)
 - [HW4](/homework/HW4.pdf) (50/50)
 - [HW5](/homework/HW5.pdf) (38.5/40)
-- [HW6](/homework/HW6.pdf) (TBD)
-- [HW7](/homework/HW7.pdf) (TBD)
+- [HW6](/homework/HW6.pdf) (48/50)
+- [HW7](/homework/HW7.pdf) (50/50)
 
 Exams:
 - [E1](/exams/E1.pdf) (19/20)
